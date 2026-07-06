@@ -23,7 +23,7 @@ body {
   background: var(--soft);
   color: var(--ink);
   font-family: "Fredoka", system-ui, sans-serif;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 a {
@@ -34,6 +34,23 @@ a {
 button,
 input {
   font: inherit;
+}
+
+strong,
+b {
+  font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+p,
+a,
+span,
+small,
+button,
+input {
+  font-weight: 500;
 }
 
 .page-shell {
