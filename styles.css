@@ -53,6 +53,15 @@ input {
   font-weight: 500;
 }
 
+h1,
+h2,
+h3,
+.button,
+button,
+.brand {
+  font-weight: 700;
+}
+
 .page-shell {
   width: min(100%, 1280px);
   margin: 0 auto;
